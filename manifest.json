@@ -1,0 +1,9 @@
+{
+  "name": "Apex Horizon 3D — Juego de Carreras Móvil",
+  "short_name": "Apex Horizon 3D",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#060913",
+  "theme_color": "#06b6d4"
+}
